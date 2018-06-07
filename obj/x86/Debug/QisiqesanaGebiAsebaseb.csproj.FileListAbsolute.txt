@@ -1,0 +1,42 @@
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.Form1.resources
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.Properties.Resources.resources
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\RdlCompile.cache
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\RdlCompile.compiled
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.pdb
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.Form1.resources
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.Properties.Resources.resources
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\RdlCompile.cache
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\RdlCompile.compiled
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Debug\QisiqesanaGebiAsebaseb.exe.config
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Debug\QisiqesanaGebiAsebaseb.exe
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Debug\QisiqesanaGebiAsebaseb.pdb
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.exe
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.pdb
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Debug\QisiqesanaGebiAsebaseb.exe.config
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.exe
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.pdb
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Debug\QisiqesanaGebiAsebaseb.exe
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Debug\QisiqesanaGebiAsebaseb.pdb
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.Form1.resources
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.Properties.Resources.resources
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.csproj.GenerateResource.Cache
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\RdlCompile.cache
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\RdlCompile.compiled
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.csprojResolveAssemblyReference.cache
+C:\Users\helena\Desktop\customized\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Debug\QisiqesanaGebiAsebaseb.exe.config
+C:\Users\helena\Desktop\customized\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.exe
+C:\Users\helena\Desktop\customized\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.pdb
+C:\Users\helena\Desktop\customized\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.csprojResolveAssemblyReference.cache
+C:\Users\helena\Desktop\customized\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.Form1.resources
+C:\Users\helena\Desktop\customized\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.Properties.Resources.resources
+C:\Users\helena\Desktop\customized\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\QisiqesanaGebiAsebaseb.csproj.GenerateResource.Cache
+C:\Users\helena\Desktop\customized\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\RdlCompile.cache
+C:\Users\helena\Desktop\customized\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Debug\RdlCompile.compiled
+C:\Users\helena\Desktop\customized\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Debug\QisiqesanaGebiAsebaseb.exe
+C:\Users\helena\Desktop\customized\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Debug\QisiqesanaGebiAsebaseb.pdb

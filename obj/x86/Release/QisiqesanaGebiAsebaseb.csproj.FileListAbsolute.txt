@@ -1,0 +1,43 @@
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Release\QisiqesanaGebiAsebaseb.exe.config
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\ResolveAssemblyReference.cache
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.Form1.resources
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.Properties.Resources.resources
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\GenerateResource.read.1.tlog
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\GenerateResource.write.1.tlog
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\RdlCompile.cache
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\RdlCompile.compiled
+D:\new disk top 00\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.pdb
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\ResolveAssemblyReference.cache
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.Form1.resources
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.Properties.Resources.resources
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\GenerateResource.read.1.tlog
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\GenerateResource.write.1.tlog
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\RdlCompile.cache
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\RdlCompile.compiled
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Release\QisiqesanaGebiAsebaseb.exe.config
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Release\QisiqesanaGebiAsebaseb.exe
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Release\QisiqesanaGebiAsebaseb.pdb
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.exe
+D:\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.pdb
+D:\AAU\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Release\QisiqesanaGebiAsebaseb.exe.config
+D:\AAU\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.exe
+D:\AAU\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.pdb
+D:\AAU\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Release\QisiqesanaGebiAsebaseb.exe
+D:\AAU\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Release\QisiqesanaGebiAsebaseb.pdb
+D:\AAU\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.csprojResolveAssemblyReference.cache
+D:\AAU\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.Properties.Resources.resources
+D:\AAU\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.csproj.GenerateResource.Cache
+D:\AAU\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\RdlCompile.cache
+D:\AAU\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\RdlCompile.compiled
+D:\AAU\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.Form1.resources
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Release\QisiqesanaGebiAsebaseb.exe.config
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.exe
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.pdb
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.csprojResolveAssemblyReference.cache
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.Form1.resources
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.Properties.Resources.resources
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\QisiqesanaGebiAsebaseb.csproj.GenerateResource.Cache
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\RdlCompile.cache
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\obj\x86\Release\RdlCompile.compiled
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Release\QisiqesanaGebiAsebaseb.exe
+C:\Users\helena\Desktop\QisiqesanaGebiAsebaseb\QisiqesanaGebiAsebaseb\bin\Release\QisiqesanaGebiAsebaseb.pdb
